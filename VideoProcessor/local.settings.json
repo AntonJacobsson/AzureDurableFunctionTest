@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "ApproverEmail": "ajacobsson98@gmail.com",
+    "SenderEmail": "test@test.com",
+    "Host": "http://localhost:7071",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "SendGridKey": "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",
+    "TranscodeBitRates": "1010,2020,3030"
+  }
+}
